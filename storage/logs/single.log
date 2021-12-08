@@ -1,0 +1,29 @@
+2021-12-08 16:43:40 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-08 16:43:40 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2021-12-08 16:43:40 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-08 16:43:40 - INFO - "GET /favicon.ico HTTP/1.1" 200 1739
+2021-12-08 16:44:05 - ERROR - ResponseError in 0 on line 0
+2021-12-08 16:44:41 - INFO - "GET /trips HTTP/1.1" 200 257
+2021-12-08 16:56:59 - ERROR - AttributeError in /Users/faithy/development/TRIPtRACKER/backend2/app/http/controllers/VistController.py on line 32
+2021-12-08 16:56:59 - ERROR - "POST /trips HTTP/1.1" 500 1044427
+2021-12-08 16:59:14 - ERROR - AttributeError in /Users/faithy/development/TRIPtRACKER/backend2/app/http/controllers/VistController.py on line 32
+2021-12-08 16:59:14 - ERROR - "POST /trips HTTP/1.1" 500 1044723
+2021-12-08 16:59:57 - ERROR - AttributeError in /Users/faithy/development/TRIPtRACKER/backend2/app/http/controllers/VistController.py on line 32
+2021-12-08 16:59:57 - ERROR - "POST /trips HTTP/1.1" 500 1044723
+2021-12-08 17:00:06 - ERROR - AttributeError in /Users/faithy/development/TRIPtRACKER/backend2/app/http/controllers/VistController.py on line 32
+2021-12-08 17:00:06 - ERROR - "POST /trips HTTP/1.1" 500 1044723
+2021-12-08 17:03:36 - ERROR - AttributeError in /Users/faithy/development/TRIPtRACKER/backend2/app/http/controllers/VistController.py on line 33
+2021-12-08 17:03:36 - ERROR - "POST /trips HTTP/1.1" 500 1043324
+2021-12-08 17:03:39 - ERROR - AttributeError in /Users/faithy/development/TRIPtRACKER/backend2/app/http/controllers/VistController.py on line 33
+2021-12-08 17:03:39 - ERROR - "POST /trips HTTP/1.1" 500 1043454
+2021-12-08 17:04:01 - ERROR - AttributeError in /Users/faithy/development/TRIPtRACKER/backend2/app/http/controllers/VistController.py on line 33
+2021-12-08 17:04:01 - ERROR - "POST /trips HTTP/1.1" 500 1043454
+2021-12-08 17:06:06 - INFO - "POST /trips HTTP/1.1" 200 261
+2021-12-08 17:06:06 - INFO - "GET /trips HTTP/1.1" 200 520
+2021-12-08 17:06:06 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-08 17:06:06 - INFO - "PUT /trips/2 HTTP/1.1" 200 263
+2021-12-08 17:06:06 - INFO - "GET /trips HTTP/1.1" 200 520
+2021-12-08 17:06:06 - INFO - "GET /trips HTTP/1.1" 200 520
+2021-12-08 17:06:06 - INFO - "DELETE /trips/2 HTTP/1.1" 200 263
+2021-12-08 17:06:06 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2021-12-08 17:06:06 - INFO - "GET /trips HTTP/1.1" 200 257
